@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SinglePageApplicationReactJs/static/css/main.4eb08fd3.chunk.css",
+    "main.js": "/SinglePageApplicationReactJs/static/js/main.03b09b96.chunk.js",
+    "main.js.map": "/SinglePageApplicationReactJs/static/js/main.03b09b96.chunk.js.map",
+    "runtime-main.js": "/SinglePageApplicationReactJs/static/js/runtime-main.0ae5ee66.js",
+    "runtime-main.js.map": "/SinglePageApplicationReactJs/static/js/runtime-main.0ae5ee66.js.map",
+    "static/css/2.4be38407.chunk.css": "/SinglePageApplicationReactJs/static/css/2.4be38407.chunk.css",
+    "static/js/2.2abdbd7c.chunk.js": "/SinglePageApplicationReactJs/static/js/2.2abdbd7c.chunk.js",
+    "static/js/2.2abdbd7c.chunk.js.map": "/SinglePageApplicationReactJs/static/js/2.2abdbd7c.chunk.js.map",
+    "index.html": "/SinglePageApplicationReactJs/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/SinglePageApplicationReactJs/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.4eb08fd3.chunk.css.map": "/SinglePageApplicationReactJs/static/css/main.4eb08fd3.chunk.css.map",
+    "static/js/2.2abdbd7c.chunk.js.LICENSE.txt": "/SinglePageApplicationReactJs/static/js/2.2abdbd7c.chunk.js.LICENSE.txt",
+    "static/media/about.2e7ec0ac.png": "/SinglePageApplicationReactJs/static/media/about.2e7ec0ac.png",
+    "static/media/images.80ab45ed.png": "/SinglePageApplicationReactJs/static/media/images.80ab45ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ae5ee66.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.2abdbd7c.chunk.js",
+    "static/css/main.4eb08fd3.chunk.css",
+    "static/js/main.03b09b96.chunk.js"
+  ]
+}
